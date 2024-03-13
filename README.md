@@ -1,2 +1,3 @@
-# Continuous 3D Words Website
-This is a project page for continuous 3D words
+# Zero-Shot Task Hallucination Website
+This is a project page for zero-shot task hallucination.
+Code coming soon!
